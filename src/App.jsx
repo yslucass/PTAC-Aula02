@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 export default function App() {
   return(
@@ -9,7 +10,6 @@ export default function App() {
        <Header/>
     </main>
     </div>  
+     </Footer>
   );
-
-
 }
