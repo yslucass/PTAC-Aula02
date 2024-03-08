@@ -1,0 +1,14 @@
+body, div, h1{
+    margin: 0;
+}
+
+header{
+    height: 150px;
+    background-color: bisque;
+}
+
+footer{
+    height: 255px;
+    background-color: bisque;
+    margin-top: 29%;
+}
