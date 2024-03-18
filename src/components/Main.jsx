@@ -9,7 +9,7 @@ export default function Main(){
                 <input type="text" name="" id="" onChange={(event)=> setNome(event.target.value)}/>
                 {nome}
 
-                <input type="text" name="" id="" onChange={(event)=> setTelefone(event.target.value)}/>
+                <input type="tel" name="" id="" onChange={(event)=> setTelefone(event.target.value)}/>
                 {telefone}
             </form>
         </main>
